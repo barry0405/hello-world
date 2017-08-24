@@ -5,3 +5,7 @@
 test git stash
 
 
+test git cherry-pick
+
+
+
